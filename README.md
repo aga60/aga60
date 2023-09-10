@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **aga60/aga60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hola 👋
+
+## Mi nombre es Aldo
+- Me dedico al Soporte Técnico
+- Desarrollo en Python, SQL, Airflow, Docker
+
+## Actualmente estoy:
+- Reforzando conocimientos sobre Full Stack Python
+- Afianzando principios, patrones, buenas prácticas y metodologías de desarrollo
